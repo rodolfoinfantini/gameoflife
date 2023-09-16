@@ -1,2 +1,2 @@
 # gameoflife
-[Page to try it](https://sirvorak.github.io/gameoflife/)
+[Page to try it](https://rodolfoinfantini.github.io/gameoflife/)
